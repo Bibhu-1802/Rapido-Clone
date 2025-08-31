@@ -23,6 +23,7 @@ This project is built for **learning, practice, and portfolio showcase**, replic
 
 ## 📂 Project Structure  
 rapido-clone/
+
 │── index.html # Main file
 
 │── style.css # Styling file
@@ -45,10 +46,12 @@ rapido-clone/
 🔗 [Click Here to View]( https://bibhu-1802.github.io/Rapido-Clone/)  
 
 
+
 👨‍💻 Author
 Bibhu Data Sethy – Aspiring Python Developer & Web Enthusiast
 
 www.linkedin.com/in/bibhu-data
 
 https://github.com/Bibhu-1802
+
 
