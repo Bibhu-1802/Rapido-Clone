@@ -24,8 +24,11 @@ This project is built for **learning, practice, and portfolio showcase**, replic
 ## 📂 Project Structure  
 rapido-clone/
 │── index.html # Main file
+
 │── style.css # Styling file
+
 │── script.js # Interactivity file
+
 │── assets/ # Images, icons, media
 
 
@@ -38,11 +41,14 @@ rapido-clone/
 3. Run the project by simply opening **index.html** in a browser 
 
 ## 🌐 Live Demo
-🔗 [Click Here to View](https://your-username.github.io/rapido-clone/)  
+
+🔗 [Click Here to View]( https://bibhu-1802.github.io/Rapido-Clone/)  
 
 
 👨‍💻 Author
 Bibhu Data Sethy – Aspiring Python Developer & Web Enthusiast
 
 www.linkedin.com/in/bibhu-data
+
 https://github.com/Bibhu-1802
+
